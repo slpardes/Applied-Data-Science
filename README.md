@@ -1,4 +1,4 @@
-# Introduction to Data Science
+# Applied Data Science
 
 This introductory course provided foundational knowledge pertaining to descriptive statistics, sampling, accessing data, linear modeling, and text mining using R.
 
